@@ -41,8 +41,7 @@ th, td {
 
 '''
 
-markdown_header = '''
----
+markdown_header = '''---
 linetitle: "Udacity Data Analyst Nanodegree"
 title: {}
 author: David Lassig 
@@ -59,8 +58,6 @@ header-includes:
     - \definecolor{{att}}{{rgb}}{{0.0,1.0,0.0}}
     - \definecolor{{vic}}{{rgb}}{{0.8,0.0,0.0}}
 ---
-
-
 '''.format(title,date)
 
 
