@@ -2,3 +2,4 @@
 *.ipynb_checkpoints
 getapi.py
 */build/
+*/__pycache__
